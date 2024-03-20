@@ -1,6 +1,6 @@
 # Project Dashboard
 
-Welcome to the Project Dashboard repository! This dashboard is designed to provide insights and facilitate decision-making for [insert project name or description].
+Welcome to the Project Dashboard repository! This dashboard is designed to provide insights and facilitate decision-making for Super Store retail market.
 
 ## Overview
 
